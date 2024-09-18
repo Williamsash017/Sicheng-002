@@ -1,1 +1,1 @@
-print("dad is sichengw")ekjawsghiurhgiaek
+print("dad is sichengw")
